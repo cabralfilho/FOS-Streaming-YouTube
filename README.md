@@ -13,3 +13,7 @@ wget https://raw.githubusercontent.com/marconimp/FOS-Streaming-YouTube/master/in
 chmod 755 install_fos_ubuntu1404_64bit.sh
 
 ./install_fos_ubuntu1404_64bit.sh
+
+
+
+rm -r /home/fos-streaming
