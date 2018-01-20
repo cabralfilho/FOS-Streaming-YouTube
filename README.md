@@ -15,5 +15,5 @@ chmod 755 install_fos_ubuntu1404_64bit.sh
 ./install_fos_ubuntu1404_64bit.sh
 
 
-
+delete
 rm -r /home/fos-streaming
